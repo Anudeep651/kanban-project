@@ -17,7 +17,12 @@ A dynamic Kanban board web application built using HTML, CSS, and JavaScript. It
 - HTML
 - CSS
 - JavaScript
-  
+
+---
+
+## 📸 Project Preview
+![Kanban Board](kanban.png)
+
 ---
 
 ## 📂 How to Run Locally
